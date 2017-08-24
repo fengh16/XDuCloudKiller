@@ -14,4 +14,4 @@
 ### // @grant        none
 ### // ==/UserScript==
 ###    // Your code here...
-###    Object.defineProperty(navigator,'platform',{get:function(){return 'FH';}});
+###    Object.defineProperty(navigator,'platform',{get:function(){return 'XDuYunKiller';}});
